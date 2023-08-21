@@ -14,6 +14,14 @@ const projects = [
       link: "https://aswad-bookhub.netlify.app/",
     },
     {
+      name: "HooBank",
+      description:
+        "Modern HooBank Landing page is a single page website built with RaectJs and styled with TailwindCSS",
+      image: "/book-hub.png",
+      github: "https://github.com/alaswadiyy/HooBank",
+      link: "https://aswad-hoobank-modern.netlify.app",
+    },
+    {
       name: "Space Tourism Multi-Page Website",
       description: "Space Tourism Multi-Page Website built with HTML, CSS and JavaScript",
       image: "/book-hub.png",
