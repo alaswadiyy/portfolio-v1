@@ -14,6 +14,14 @@ const projects = [
       link: "https://aswad-bookhub.netlify.app/",
     },
     {
+      name: "Nike Sample Website",
+      description:
+        "Nike Sample Landing page is a single page website built with RaectJs and styled with TailwindCSS",
+      image: "/nike_sample.png",
+      github: "https://github.com/alaswadiyy/nike-aswad",
+      link: "https://nike-sample.netlify.app",
+    },
+    {
       name: "HooBank",
       description:
         "Modern HooBank Landing page is a single page website built with RaectJs and styled with TailwindCSS",
@@ -24,7 +32,7 @@ const projects = [
     {
       name: "Space Tourism Multi-Page Website",
       description: "Space Tourism Multi-Page Website built with HTML, CSS and JavaScript",
-      image: "/book-hub.png",
+      image: "/space-tourism.jpg",
       github: "https://github.com/alaswadiyy/space-tourism",
       link: "https://alaswadiyy.github.io/space-tourism/",
     },
@@ -32,7 +40,7 @@ const projects = [
       name: "Huddle Landing Page",
       description:
         "Huddle Landing Page created with HTML and CSS",
-      image: "/book-hub.png",
+      image: "/huddle-landdingpage.jpg",
       github: "https://github.com/alaswadiyy/Huddle-landingpage",
       link: "https://alaswadiyy.github.io/Huddle-landingpage/",
     },

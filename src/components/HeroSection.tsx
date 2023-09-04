@@ -4,6 +4,7 @@ import Image from 'next/image'
 import { Link } from 'react-scroll/modules'
 import { HiArrowDown } from "react-icons/hi"
 
+
 const HeroSection = () => {
   return (
     <section id='home'>
@@ -31,6 +32,13 @@ const HeroSection = () => {
                 >
                     Projects
                 </Link>
+                <a
+                    href='/Abdulmuiz_Olayemi_Resume.pdf'
+                    className='text-teal-600 font-semibold ml-4 px-6 py-3 border border-teal-500 rounded shadow hover:bg-teal-200 cursor-pointer'
+                    download="cv"
+                >
+                    Download CV
+                </a>
             </div>
         </div>
         <div className="flex flex-row items-center text-center justify-center ">
